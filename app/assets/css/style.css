@@ -489,7 +489,7 @@ a {
     vertical-align: middle; }
     .masthead .intro-body .brand-heading {
       margin: auto 0;
-      width: 60%; }
+      width: 100%; }
     .masthead .intro-body .intro-text {
       font-size: 18px; }
   @media (min-width: 768px) {
